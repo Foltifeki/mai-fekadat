@@ -623,12 +623,16 @@ video {
   text-align: center;
 }
 
-.font-lobster {
-  font-family: Lobster;
-}
-
 .font-courgette {
   font-family: Courgette;
+}
+
+.font-kaushan {
+  font-family: Kaushan Sctipt;
+}
+
+.font-lobster {
+  font-family: Lobster;
 }
 
 .text-3xl {

@@ -5,6 +5,7 @@ module.exports = {
     fontFamily: {
       'courgette': ['Courgette'],
       'lobster': ['Lobster'],
+      'kaushan': ['Kaushan Sctipt'],
     }
   },
   plugins: [],
